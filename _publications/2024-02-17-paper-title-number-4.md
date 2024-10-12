@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "'Yeah, they suck. It’s like they don’t care about our health.' Medical mistrust among Black women under community supervision in New York City"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Abstract: Black women in the USA experience some of the poorest health outcomes and this is especially true for those involved in the carceral system who are at elevated risks for HIV/STIs, reproductive health, and chronic diseases. This study aimed to investigate Black women’s experience accessing healthcare services. We conducted semi-structured interviews with 43 women from Project EWORTH under community supervision in New York City. We analysed responses focusing on barriers to healthcare engagement. All interviews were recorded, and data analysis was conducted using NVivo. Themes influencing Black women’s ability to engage with healthcare providers and systems included: 1) disclosed provider mistrust/judgement; 2) feeling disrespected by providers and the medical system; 3) mistrust of medical providers/system/hospital/government; 4) lack of health communication; 5) low health literacy; 6) provider gender preference. Findings highlight the need to improve trust and collaboration between healthcare providers and Black women. This study addresses the critical gap in understanding perceptions of discrimination, stigma, and barriers to attaining health care. Funders and accreditation agencies must hold providers and organisations accountable for acquiring and making available diversity, equity and inclusion training for providers, demonstrating increasingly equitable medical relationships through responsiveness to patient feedback, and increasing the number of Black providers.'
+date: 2024-07-24
+venue: 'Culture, Health & Sexuality'
+paperurl: 'https://doi.org/10.1080/13691058.2024.2358084'
+citation: 'Goddard-Eckrich, D., Stringer, K., Richer, A., Dasgupta, A., Brooks, D., Cervantes, M., Downey, D.L., Keller, P., Bell, S., Hunt, T., Wu, E., Johnson, K., Hall, J., Guy-Cupid, G, Thomas, B., Edwards, K., Ramesh, V., & Louisa, G. (2024). “Yeah, they suck. It’s like they don’t care about our health.” Medical mistrust among Black women under community supervision in New York City. Culture, Health & Sexuality. https://doi.org/10.1080/13691058.2024.2358084'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
