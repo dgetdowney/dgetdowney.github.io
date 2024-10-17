@@ -21,10 +21,10 @@ repository               : "dgetdowney.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "NYU Headshot.jpg"
   name             : "Dget Downey, MSW"
   pronouns         : "they/he" # example: "she/her"  
-  bio              : " PhD Student in Social Work"
+  bio              : "PhD Student in Social Work"
   location         : "New York, NY"
   employer         : "New York University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/dgetdowney"
+  linkedin         : "https://www.linkedin.com/in/dgetdowney/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
