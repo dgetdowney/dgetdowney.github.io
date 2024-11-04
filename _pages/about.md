@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dget Downey, MSW"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,17 +9,19 @@ redirect_from:
 
 About Me
 ======
+Welcome to my website! This site is in the process of being completed at this time. My publications page, as well as the links to my Google Scholar, ORCID, ResearchGate, and Github pages are up to date. I expect to finish coding this site by the end of December 2024.
 
+Should you have any questions or inquiries at this time, please reach out to me at dld382@nyu.edu. 
 
 Research Goals
 ======
 
 
-Site-wide configuration
+Experience
 ------
 
 
-Create content & metadata
+Trajectory
 ------
 
 **Questions?**
